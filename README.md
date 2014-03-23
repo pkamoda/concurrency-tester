@@ -1,4 +1,4 @@
 concurrency-tester
 ==================
 
-Testing tool checking corectness conditions for concurrency objects
+Testing tool checking corectness conditions of concurrency objects

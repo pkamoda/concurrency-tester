@@ -27,5 +27,4 @@ public enum State {
 	EXCLUSIVE,
 	MODIFIED,
 	SHARED;
-		
 }

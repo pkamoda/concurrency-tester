@@ -16,9 +16,16 @@
 package com.kmo.concurrency.tester.utils;
 
 /**
- * @author Piotr
+ * @author Piotr Kamoda (piotrkamo@gmail.com)
+ * 
+ * MESI States 
  *
  */
 public enum State {
 
+	INVALID,
+	EXCLUSIVE,
+	MODIFIED,
+	SHARED;
+		
 }

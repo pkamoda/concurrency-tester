@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.kmo.concurrency.tester.utils;
+package com.kmo.labs.jctester.utils;
 
 /**
  * @author Piotr Kamoda (piotrkamo@gmail.com)
